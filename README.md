@@ -1,6 +1,6 @@
-# Node Crash Course Files
+# This is my first Node App
 
-> These files go with the Node crash course on YouTube.
+> Brad Traversy (aka Traversy Media) Tought me this
 
 ## Quick Start
 
