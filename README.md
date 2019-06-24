@@ -1,6 +1,6 @@
-# This is my first Node App
+# This a basic Node App
 
-> Brad Traversy (aka Traversy Media) Tought me this
+> 
 
 ## Quick Start
 
